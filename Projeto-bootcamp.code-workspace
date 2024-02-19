@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../Preparatech-Sc/aulas-web"
+	},
+	{
+		"path": "../Estudando-js"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Projeto-bootcamp"
+  }
+}
